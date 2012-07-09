@@ -17,7 +17,7 @@ __Agenda TBA__
 - __2012__
 	- __CocoaHeads June__ _in Raleigh_:
 		- Localization [by Ameir Al-Zoubi](http://twitter.com/ameir) [[Watch the Video](http://trianglecocoa.com/post/26216894818/localization-and-internationalization-by-ameir)]
-		- Animating Custom Layer Properties [by Rob Napier](http://twitter.com/cocoaphoney) [[Watch the Video](http://trianglecocoa.com/post/26222344106/animating-custom-layer-properties-by-rob)]
+		- Animating Custom Layer Properties [by Rob Napier](http://twitter.com/cocoaphony) [[Watch the Video](http://trianglecocoa.com/post/26222344106/animating-custom-layer-properties-by-rob)]
 		- Building iOS Apps with Jenkins [by Bruce Shankle](http://ba3.us) [[Watch the Video](http://trianglecocoa.com/post/26234595910/jenkins-for-ios-apps-by-bruce-shankle-from)]
 	- __CocoaHeads May__ _in Durham_:
 		- Accessibility [by Marty Cullen](http://twitter.com/martycullen) [[Watch the Video](http://trianglecocoa.com/post/24355851208/for-our-first-session-on-cocoa-fundamentals-this)]
