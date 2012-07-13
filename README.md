@@ -8,9 +8,14 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is __Thursday July 26__ in Durham, NC at the [Two Toasters](http://twotoasters.com) office at [320 E. Chapel Hill St.](http://goo.gl/maps/x4BQ). 
+Our next meeting is **Thursday July 26** in Durham, NC at the [Two Toasters](http://twotoasters.com) office at [320 E. Chapel Hill St.](http://goo.gl/maps/x4BQ). 
 
-__Agenda TBA__
+- [**Dirk Smith**](http://twitter.com/dirkthedaring)
+	- Understanding UIResponder
+- [**Daniel Steinberg**](http://twitter.com/dimsumthinking)
+	- An introduction to Autolayout for Mac OS X and just for Mac OS X if you know what I mean
+- [**Josh Johnson**](http://twitter.com/jnjosh)
+	- Automated Acceptance Testing or: How I stopped worrying and trusted the tests
 
 ## Previous Meetings
 
