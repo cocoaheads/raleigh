@@ -8,18 +8,17 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **Thursday July 26** in Durham, NC at the [Two Toasters](http://twotoasters.com) office at [320 E. Chapel Hill St.](http://goo.gl/maps/x4BQ). 
+Our next meeting is **Thursday August 23** in Raleigh, NC. 
 
-- [**Dirk Smith**](http://twitter.com/dirkthedaring)
-	- Understanding UIResponder
-- [**Daniel Steinberg**](http://twitter.com/dimsumthinking)
-	- An introduction to Autolayout for Mac OS X and just for Mac OS X if you know what I mean
-- [**Josh Johnson**](http://twitter.com/jnjosh)
-	- Automated Acceptance Testing or: How I stopped worrying and trusted the tests
+Agenda TBA
 
 ## Previous Meetings
 
 - __2012__
+	- __CocoaHeads July__ _in Durham_:
+		- Understanding UIResponder [by Dirk Smith](http://twitter.com/dirkthedaring)
+		- An introduction to Autolayout for Mac OS X and just for Mac OS X if you know what I mean [by Daniel Steinberg](http://twitter.com/dimsumthinking)
+		- Automated Acceptance Testing or: How I stopped worrying and trusted the tests [by Josh Johnson](http://twitter.com/jnjosh)
 	- __CocoaHeads June__ _in Raleigh_:
 		- Localization [by Ameir Al-Zoubi](http://twitter.com/ameir) [[Watch the Video](http://trianglecocoa.com/post/26216894818/localization-and-internationalization-by-ameir)]
 		- Animating Custom Layer Properties [by Rob Napier](http://twitter.com/cocoaphony) [[Watch the Video](http://trianglecocoa.com/post/26222344106/animating-custom-layer-properties-by-rob)]
