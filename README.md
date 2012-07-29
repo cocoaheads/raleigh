@@ -16,9 +16,9 @@ Agenda TBA
 
 - __2012__
 	- __CocoaHeads July__ _in Durham_:
-		- Understanding UIResponder [by Dirk Smith](http://twitter.com/dirkthedaring)
-		- An introduction to Autolayout for Mac OS X and just for Mac OS X if you know what I mean [by Daniel Steinberg](http://twitter.com/dimsumthinking)
-		- Automated Acceptance Testing or: How I stopped worrying and trusted the tests [by Josh Johnson](http://twitter.com/jnjosh)
+		- Understanding UIResponder [by Dirk Smith](http://twitter.com/dirkthedaring) [[Watch the Video](https://vimeo.com/46551853)]
+		- An introduction to Autolayout for Mac OS X and just for Mac OS X if you know what I mean [by Daniel Steinberg](http://twitter.com/dimsumthinking) [[Watch the Video](https://vimeo.com/46553323)]
+		- Automated Acceptance Testing or: How I stopped worrying and trusted the tests [by Josh Johnson](http://twitter.com/jnjosh) [[Watch the Video] (https://vimeo.com/46555160)]
 	- __CocoaHeads June__ _in Raleigh_:
 		- Localization [by Ameir Al-Zoubi](http://twitter.com/ameir) [[Watch the Video](http://trianglecocoa.com/post/26216894818/localization-and-internationalization-by-ameir)]
 		- Animating Custom Layer Properties [by Rob Napier](http://twitter.com/cocoaphony) [[Watch the Video](http://trianglecocoa.com/post/26222344106/animating-custom-layer-properties-by-rob)]
