@@ -8,9 +8,13 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **Thursday August 23** in Raleigh, NC. 
+Our next meeting is **Thursday August 23** in Raleigh, NC. The meeting will be at it's usual Raleigh location at TekSystem's office near the PNC Arena.
 
-Agenda TBA
+**Speakers for CocoaHeads August**
+
+- "Collections in Foundation" by [Kevin Conner](http://twitter.com/connerk)
+- "Multithreaded Drawing" by Eric Lanz
+- "Unburdening your ViewControllers" by [Jay Thrash](http://twitter.com/jaythrash)
 
 ## Previous Meetings
 
