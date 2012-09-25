@@ -8,17 +8,21 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **Thursday August 23** in Raleigh, NC. The meeting will be at it's usual Raleigh location at TekSystem's office near the PNC Arena.
+Our next meeting is **Thursday September 27** in Durham, NC. The meeting will be at the Two Toasters office in downtown Durham at [320 E. Chapel Hill St](http://trianglecocoa.com/twotoasters).
 
-**Speakers for CocoaHeads August**
+**Speakers for CocoaHeads September**
 
-- "Collections in Foundation" by [Kevin Conner](http://twitter.com/connerk)
-- "Multithreaded Drawing" by Eric Lanz
-- "Unburdening your ViewControllers" by [Jay Thrash](http://twitter.com/jaythrash)
+- "iPhone 5 and You! Preparing your app for the new retina screen" [by Ameir Al-Zoubi](http://twitter.com/ameir)
+- "Grand Central Dispatch" by Jody Hagins
+- "Instruments: Leaks" [by Trevor Brown](http://twitter.com/melikemacs)
 
 ## Previous Meetings
 
 - __2012__
+	- __CocoaHeads August__ _in Raleigh_:
+		- Collections in Foundation" [by Kevin Conner](http://twitter.com/connerk) [[Watch the video](https://vimeo.com/48228001)]
+		- Multithreaded Drawing by Eric Lanz [[Watch the video](https://vimeo.com/48246007)]
+		- Unburdening your ViewControllers [by Jay Thrash](http://twitter.com/jaythrash) [[Watch the video](https://vimeo.com/48247940)]
 	- __CocoaHeads July__ _in Durham_:
 		- Understanding UIResponder [by Dirk Smith](http://twitter.com/dirkthedaring) [[Watch the Video](https://vimeo.com/46551853)]
 		- An introduction to Autolayout for Mac OS X and just for Mac OS X if you know what I mean [by Daniel Steinberg](http://twitter.com/dimsumthinking) [[Watch the Video](https://vimeo.com/46553323)]
