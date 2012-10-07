@@ -2,23 +2,25 @@
 
 CocoaHeads in Raleigh-Durham, NC generally meets on the fourth Thursday of each month, switching between Raleigh and Durham. We also meet weekly in the form of an NSCoder Night. For more information about meetings and to register, visit [meetup.trianglecocoa.com](http://meetup.trianglecocoa.com).
 
-We are now recording video of our talks each month and releasing them on [trianglecocoa.com](http://trianglecocoa.com).
+We record video of our talks each month and release them on [trianglecocoa.com](http://trianglecocoa.com).
 
 Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa).
 
 ## Next Meeting
 
-Our next meeting is **Thursday September 27** in Durham, NC. The meeting will be at the Two Toasters office in downtown Durham at [320 E. Chapel Hill St](http://trianglecocoa.com/twotoasters).
+Our next meeting is **Thursday October 24** in Raleigh, NC.
 
-**Speakers for CocoaHeads September**
+**Speakers for CocoaHeads October**
 
-- "iPhone 5 and You! Preparing your app for the new retina screen" [by Ameir Al-Zoubi](http://twitter.com/ameir)
-- "Grand Central Dispatch" by Jody Hagins
-- "Instruments: Leaks" [by Trevor Brown](http://twitter.com/melikemacs)
+TBA
 
 ## Previous Meetings
 
 - __2012__
+	- __CocoaHeads September__ _in Durham_:
+		- iPhone 5 and You! Preparing your app for the new retina screen [by Ameir Al-Zoubi](http://twitter.com/ameir) [[Watch the video](https://vimeo.com/50913565)]
+		- Grand Central Dispatch by Jody Hagins [[Watch the video](https://vimeo.com/50914562)]
+		- Instruments: Leaks [by Trevor Brown](http://twitter.com/melikemacs) [[Watch the video](https://vimeo.com/50940229)]
 	- __CocoaHeads August__ _in Raleigh_:
 		- Collections in Foundation" [by Kevin Conner](http://twitter.com/connerk) [[Watch the video](https://vimeo.com/48228001)]
 		- Multithreaded Drawing by Eric Lanz [[Watch the video](https://vimeo.com/48246007)]
