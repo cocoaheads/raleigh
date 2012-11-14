@@ -8,15 +8,18 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **Thursday October 24** in Raleigh, NC.
+Our next meeting is **Thursday November 29** in RTP, NC in conjunction with [CocoaConf](http://cocoaconf.com).
 
-**Speakers for CocoaHeads October**
+**Speakers for CocoaHeads November**
 
-TBA
+- TBA
 
 ## Previous Meetings
 
 - __2012__
+	- __CocoaHeads October__
+		- UIActivity [by Josh Johnson](http://twitter.com/jnjosh)
+		- Secrets of the App Store [by Lawrence Ingraham](http://twitter.com/lawpower) [[Watch the video](http://vimeo.com/52314493)]
 	- __CocoaHeads September__ _in Durham_:
 		- iPhone 5 and You! Preparing your app for the new retina screen [by Ameir Al-Zoubi](http://twitter.com/ameir) [[Watch the video](https://vimeo.com/50913565)]
 		- Grand Central Dispatch by Jody Hagins [[Watch the video](https://vimeo.com/50914562)]
@@ -28,7 +31,7 @@ TBA
 	- __CocoaHeads July__ _in Durham_:
 		- Understanding UIResponder [by Dirk Smith](http://twitter.com/dirkthedaring) [[Watch the Video](https://vimeo.com/46551853)]
 		- An introduction to Autolayout for Mac OS X and just for Mac OS X if you know what I mean [by Daniel Steinberg](http://twitter.com/dimsumthinking) [[Watch the Video](https://vimeo.com/46553323)]
-		- Automated Acceptance Testing or: How I stopped worrying and trusted the tests [by Josh Johnson](http://twitter.com/jnjosh) [[Watch the Video] (https://vimeo.com/46555160)]
+		- Automated Acceptance Testing or: How I stopped worrying and trusted the tests [by Josh Johnson](http://twitter.com/jnjosh) [[Watch the Video](https://vimeo.com/46555160)]
 	- __CocoaHeads June__ _in Raleigh_:
 		- Localization [by Ameir Al-Zoubi](http://twitter.com/ameir) [[Watch the Video](http://trianglecocoa.com/post/26216894818/localization-and-internationalization-by-ameir)]
 		- Animating Custom Layer Properties [by Rob Napier](http://twitter.com/cocoaphony) [[Watch the Video](http://trianglecocoa.com/post/26222344106/animating-custom-layer-properties-by-rob)]
