@@ -17,7 +17,7 @@ Our next meeting is **Thursday November 29** in RTP, NC in conjunction with [Coc
 ## Previous Meetings
 
 - __2012__
-	- __CocoaHeads October__
+	- __CocoaHeads October__ _in Raleigh_
 		- UIActivity [by Josh Johnson](http://twitter.com/jnjosh)
 		- Secrets of the App Store [by Lawrence Ingraham](http://twitter.com/lawpower) [[Watch the video](http://vimeo.com/52314493)]
 	- __CocoaHeads September__ _in Durham_:
