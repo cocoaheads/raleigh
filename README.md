@@ -8,15 +8,20 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **Thursday November 29** in RTP, NC in conjunction with [CocoaConf](http://cocoaconf.com).
+Our next meeting is **Thursday December 20** in Raleigh, NC.
 
-**Speakers for CocoaHeads November**
+**Speakers for CocoaHeads December**
 
 - TBA
 
 ## Previous Meetings
 
 - __2012__
+	- __CocoaHeads November: CocoaConf Edition__ _in RTP_
+		- A Brief History of CocoaHeads [by Mark Dalrymple](http://twitter.com/borkware) [[Watch the video](https://vimeo.com/54731036)]
+		- Objective-C Literals [by Mark Dalrymple](http://twitter.com/borkware) [[Watch the video](https://vimeo.com/54730335)]
+		- Deconstructing a CGPath (or UIBezierPath) [by Bill Dudney](http://twitter.com/bdudney)
+		- Chaos Testing with UI AutoMonkey [by Jonathan Penn](http://twitter.com/jonathanpenn) [[Watch the video](https://vimeo.com/54727965)]
 	- __CocoaHeads October__ _in Raleigh_
 		- UIActivity [by Josh Johnson](http://twitter.com/jnjosh)
 		- Secrets of the App Store [by Lawrence Ingraham](http://twitter.com/lawpower) [[Watch the video](http://vimeo.com/52314493)]
