@@ -1,5 +1,7 @@
 ## CocoaHeads of Raleigh/Durham, NC
 
+![CocoaHeads November](https://s3.amazonaws.com/com-jnjosh-assets/cocoaheads-november.jpg)
+
 CocoaHeads in Raleigh-Durham, NC generally meets on the fourth Thursday of each month, switching between Raleigh and Durham. We also meet weekly in the form of an NSCoder Night. For more information about meetings and to register, visit [meetup.trianglecocoa.com](http://meetup.trianglecocoa.com).
 
 We record video of our talks each month and release them on [trianglecocoa.com](http://trianglecocoa.com).
