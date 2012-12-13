@@ -14,7 +14,8 @@ Our next meeting is **Thursday December 20** in Raleigh, NC.
 
 **Speakers for CocoaHeads December**
 
-- TBA
+- Session 1: TBA
+- Session 2: __Core Text Crash Course__ [by Rob Napier](http://twitter.com/cocoaphony)
 
 ## Previous Meetings
 
