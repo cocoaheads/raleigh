@@ -14,8 +14,9 @@ Our next meeting is **Thursday December 20** in Raleigh, NC.
 
 **Speakers for CocoaHeads December**
 
-- Session 1: TBA
+- Session 1: __Debugging__ [by Mike Hay](http://twitter.com/hay)
 - Session 2: __Core Text Crash Course__ [by Rob Napier](http://twitter.com/cocoaphony)
+- Session 3: __CouchDB Cocoa Framework__ by John Turner
 
 ## Previous Meetings
 
