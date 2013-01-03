@@ -10,17 +10,18 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **Thursday December 20** in Raleigh, NC.
+Our next meeting is **Thursday January 24** in Durham, NC.
 
-**Speakers for CocoaHeads December**
+**Speakers for CocoaHeads January**
 
-- Session 1: __Debugging__ [by Mike Hay](http://twitter.com/hay)
-- Session 2: __Core Text Crash Course__ [by Rob Napier](http://twitter.com/cocoaphony)
-- Session 3: __CouchDB Cocoa Framework__ by John Turner
+_Speakers TBA_
 
 ## Previous Meetings
 
 - __2012__
+	- __CocoaHeads December__ _in Raleigh_
+		- Debugging Tips [by Mike Hay](http://twitter.com/hay) [[Watch the video](https://vimeo.com/56405472)]
+		- Core Text Crash Course [by Rob Napier](http://twitter.com/cocoaphony) [[Watch the video](https://vimeo.com/56670254)]
 	- __CocoaHeads November: CocoaConf Edition__ _in RTP_
 		- A Brief History of CocoaHeads [by Mark Dalrymple](http://twitter.com/borkware) [[Watch the video](https://vimeo.com/54731036)]
 		- Objective-C Literals [by Mark Dalrymple](http://twitter.com/borkware) [[Watch the video](https://vimeo.com/54730335)]
