@@ -14,7 +14,9 @@ Our next meeting is **Thursday January 24** in Durham, NC.
 
 **Speakers for CocoaHeads January**
 
-_Speakers TBA_
+- Session 1 - TBA
+- Session 2 - TBA
+- Cocoa Framework for CouchDB by John Turner
 
 ## Previous Meetings
 
