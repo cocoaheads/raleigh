@@ -14,8 +14,8 @@ Our next meeting is **Thursday January 24** in Durham, NC.
 
 **Speakers for CocoaHeads January**
 
-- Session 1 - TBA
-- Session 2 - TBA
+- Radars by Josh Johnson
+- Open Source Objective-C Projects by Scott Penrose
 - Cocoa Framework for CouchDB by John Turner
 
 ## Previous Meetings
