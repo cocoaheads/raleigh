@@ -10,16 +10,19 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **Thursday January 24** in Durham, NC.
+Our next meeting is **Thursday February 28** in Raleigh, NC.
 
-**Speakers for CocoaHeads January**
+**Speakers for CocoaHeads February**
 
-- Radars by Josh Johnson
-- Open Source Objective-C Projects by Scott Penrose
-- Cocoa Framework for CouchDB by John Turner
+TBA
 
 ## Previous Meetings
 
+- __2013__
+	- __CocoaHeads January__ _in Durham_
+		- Radars [by Josh Johnson](http://twitter.com/jnjosh)
+		- Open Source Objective-C Projects [by Scott Penrose](http://twitter.com/scottpenrose)
+		- Cocoa Framework for CouchDB [by John Turner](http://twitter.com/thejohnturner)
 - __2012__
 	- __CocoaHeads December__ _in Raleigh_
 		- Debugging Tips [by Mike Hay](http://twitter.com/hay) [[Watch the video](https://vimeo.com/56405472)]
