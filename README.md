@@ -14,7 +14,9 @@ Our next meeting is **Thursday February 28** in Raleigh, NC.
 
 **Speakers for CocoaHeads February**
 
-TBA
+- __"Tips and Tricks for working with UIWebView"__ by Pat Brewer
+- __"RestKit"__ by Blake Watters
+- __"Programmer Ergonomics"__ by Roy Legaard
 
 ## Previous Meetings
 
