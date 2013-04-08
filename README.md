@@ -10,17 +10,22 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **Thursday February 28** in Raleigh, NC.
+Our next meeting is **April 25, 2013** in Raleigh, NC.
 
-**Speakers for CocoaHeads February**
+**Speakers for CocoaHeads April**
 
-- __"Tips and Tricks for working with UIWebView"__ by Pat Brewer
-- __"RestKit"__ by Blake Watters
-- __"Programmer Ergonomics"__ by Roy Legaard
+TBA
 
 ## Previous Meetings
 
 - __2013__
+	- __CocoaHeads March__ _in Durham_
+		- Building a Playlist with AV Foundation by Josh Johnson [[Watch Video](http://cocoaheads.tv/building-a-playlist-with-av-foundation-by-josh-johnson/)]
+		- PonyDebugger by Jay Thrash [[Watch Video](http://cocoaheads.tv/ponydebugger-by-jay-thrash/)]
+	- __CocoaHeads February__ _in Raleigh_
+		- Tips and Tricks for working with UIWebView by Pat Brewer [[Watch the video](http://cocoaheads.tv/uiwebview-tips-and-tricks-by-pat-brewer/)]
+		- RestKit by Blake Watters [[Watch the video](http://cocoaheads.tv/restkit-by-blake-watters/)]
+		- Programmer Ergonomics by Roy Legaard [[Watch the video](http://cocoaheads.tv/dvorak-keyboard-ergonomics-by-roy-legaard/)]
 	- __CocoaHeads January__ _in Durham_
 		- Radars [by Josh Johnson](http://twitter.com/jnjosh)
 		- Open Source Objective-C Projects [by Scott Penrose](http://twitter.com/scottpenrose)
