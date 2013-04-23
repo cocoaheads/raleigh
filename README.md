@@ -14,7 +14,8 @@ Our next meeting is **April 25, 2013** in Raleigh, NC.
 
 **Speakers for CocoaHeads April**
 
-TBA
+- "Strategies, Tips, and Tricks for Sometimes Connected Apps" by Ken Auer
+- "Grand Central Dispatch" by Dan Leehr
 
 ## Previous Meetings
 
