@@ -10,16 +10,23 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **April 25, 2013** in Raleigh, NC.
+Our next meeting is **June 27, 2013** in Raleigh, NC.
 
-**Speakers for CocoaHeads April**
+**Speakers for CocoaHeads June**
 
-- "Strategies, Tips, and Tricks for Sometimes Connected Apps" by Ken Auer
-- "Grand Central Dispatch" by Dan Leehr
+- "WWDC: Recap" by Mike Hay
+- "HTTP Live Streaming: Distributing Video Over the Top" by Kevin Kirkup
+- "Mocking U with Kiwi" by Daniel Hammond
 
 ## Previous Meetings
 
 - __2013__
+	- __CocoaHeads May__ _in Durham_
+		- Design then Code: Live! by Mike Rundle [[Watch Video](http://cocoaheads.tv/design-the-code-live-by-mike-rundle/)]
+		- Interaction Prototyping with Quartz Composer by Jay Thrash [[Watch Video](http://cocoaheads.tv/interaction-prototyping-with-quartz-composer-by-jay-thrash/)]
+	- __CocoaHeads April__ _in Raleigh_
+		- Strategies, Tips, and Tricks for Sometimes Connected Apps by Ken Auer [[Watch Video](http://cocoaheads.tv/strategies-tips-and-tricks-for-sometimes-connected-apps-by-ken-auer/)]
+		- "Grand Central Dispatch" by Dan Leehr [[Watch Video](http://cocoaheads.tv/gcd-2-beyond-the-queue-by-dan-leehr/)]
 	- __CocoaHeads March__ _in Durham_
 		- Building a Playlist with AV Foundation by Josh Johnson [[Watch Video](http://cocoaheads.tv/building-a-playlist-with-av-foundation-by-josh-johnson/)]
 		- PonyDebugger by Jay Thrash [[Watch Video](http://cocoaheads.tv/ponydebugger-by-jay-thrash/)]
@@ -29,8 +36,8 @@ Our next meeting is **April 25, 2013** in Raleigh, NC.
 		- Programmer Ergonomics by Roy Legaard [[Watch the video](http://cocoaheads.tv/dvorak-keyboard-ergonomics-by-roy-legaard/)]
 	- __CocoaHeads January__ _in Durham_
 		- Radars [by Josh Johnson](http://twitter.com/jnjosh)
-		- Open Source Objective-C Projects [by Scott Penrose](http://twitter.com/scottpenrose)
-		- Cocoa Framework for CouchDB [by John Turner](http://twitter.com/thejohnturner)
+		- Open Source Objective-C Projects [by Scott Penrose](http://twitter.com/scottpenrose) [[Watch Video](http://cocoaheads.tv/sharing-is-caring-by-scott-penrose/)]
+		- Cocoa Framework for CouchDB [by John Turner](http://twitter.com/thejohnturner) [[Watch Video](http://cocoaheads.tv/couchdb-cocoa-framework-by-john-turner/)]
 - __2012__
 	- __CocoaHeads December__ _in Raleigh_
 		- Debugging Tips [by Mike Hay](http://twitter.com/hay) [[Watch the video](https://vimeo.com/56405472)]
