@@ -14,7 +14,8 @@ Our next meeting is **September 19, 2013** in Durham, NC.
 
 **Speakers for CocoaHeads September**
 
-- TBA
+- What an iOS Developer needs to know about insurance by Brooks Barbee 
+- Writing iOS 7 Applications with AFNetworking 2.0 by Mattt Thompson
 
 ## Previous Meetings
 
