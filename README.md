@@ -20,14 +20,14 @@ Our next meeting is **September 19, 2013** in Durham, NC.
 ## Previous Meetings
 
 - __2013__
-  - __CocoaHeads August__ _in Raleigh_
+	- __CocoaHeads August__ _in Raleigh_
 		- Using Cocotron by Raf Cabezas
 		- What an iOS Developer needs to know about the law by Jonathan Rhyne
-  - __CocoaHeads July__ _in Durham_
+	- __CocoaHeads July__ _in Durham_
 		- Auto Layout by Steve Foster
 		- AppCode by Rob Napier
 		- Briefs 2 by Rob Rhyne
-  - __CocoaHeads June__ _in Raleigh_
+	- __CocoaHeads June__ _in Raleigh_
 		- WWDC: Recap by Mike Hay
 		- HTTP Live Streaming: Distributing Video Over the Top by Kevin Kirkup
 		- Mocking U with Kiwi by Daniel Hammond
