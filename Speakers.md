@@ -30,11 +30,11 @@ Some tips for making a great presentation:
 
 We like to record audio and video of the presentation to release on the [cocoaheads.tv](http://cocoaheads.tv) site. If you must use your own computer to record your presentation here are some tips to record if you don't already have your own recording solution:
 
-Step 1: Launch Quicktime Player via Spotlight or from Applications
-Step 2: Under File, choose New Screen Recording 
-Step 3: To the right of the record button choose the down facing arrow to select microphone. Choose 'Built-In Microphone'
-Step 4: When you are ready to begin, tap the record button.
-Step 5: Possibly the most important, END the recording before closing your laptop. We've seen some occasions where sleeping the laptop before ending the video caused it to crash Quicktime. You can just save it to your desktop temporarily. 
+  1. Launch Quicktime Player via Spotlight or from Applications
+  2. Under File, choose New Screen Recording 
+  3. To the right of the record button choose the down facing arrow to select microphone. Choose 'Built-In Microphone'
+  4. When you are ready to begin, tap the record button.
+  5. Possibly the most important, END the recording before closing your laptop. We've seen some occasions where sleeping the laptop before ending the video caused it to crash Quicktime. You can just save it to your desktop temporarily. 
 
 ### Contacts
 
