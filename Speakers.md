@@ -34,7 +34,8 @@ We like to record audio and video of the presentation to release on the [cocoahe
   2. Under File, choose New Screen Recording 
   3. To the right of the record button choose the down facing arrow to select microphone. Choose 'Built-In Microphone'
   4. When you are ready to begin, tap the record button.
-  5. Possibly the most important, END the recording before closing your laptop. We've seen some occasions where sleeping the laptop before ending the video caused it to crash Quicktime. You can just save it to your desktop temporarily. 
+  5. Choose the screen to record by selecting the screen to record.
+  5. Possibly the most important, __END the recording before closing your laptop or changing display settings__. We've seen some occasions where sleeping the laptop before ending the video caused it to crash Quicktime. You can just save it to your desktop temporarily in these situtions and it will be stiched together for the recording. 
 
 ### Contacts
 
