@@ -17,7 +17,7 @@ Our next meeting is **October 24, 2013** in Raleigh, NC.
 ## Previous Meetings
 
 - __2013__
-	- [__CocoaHeads September _in Durham_](http://www.meetup.com/nscoderrtp/events/138542752/)
+	- [__CocoaHeads September__ _in Durham_](http://www.meetup.com/nscoderrtp/events/138542752/)
 		- What an iOS Developer needs to know about insurance by Brooks Barbee
 		- AFNetworking 2.0 by [Mattt Thompson](http://twitter.com/mattt) [[Watch Video](http://cocoaheads.tv/afnetworking-2-0-by-mattt-thompson/)]
 	- [__CocoaHeads August__ _in Raleigh_](http://www.meetup.com/nscoderrtp/events/131194582/)
