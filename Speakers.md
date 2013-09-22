@@ -6,7 +6,8 @@ We really appreciate you volunteering to speak at our CocoaHeads. Below are some
 
 To keep our CocoaHeads available to as many people as possible, we switch between Durham and Raleigh each month. Make sure you take note of the location for the month you are speaking. Our typical locations are:
 
-- Durham: Two Toasters office at [320 E. Chapel Hill St. Suite 200 Durham, NC 27701](https://www.google.com/maps?q=320+E+Chapel+Hill+St,+Durham,+NC+27701&sll=35.843768,-78.6450559&sspn=0.42756695602060957,0.7033939441419972&t=m&dg=opt&hnear=320+E+Chapel+Hill+St,+Durham,+North+Carolina+27701&z=16)
+- Durham: American Underground @ Main at [201 W. Main St. Durham, NC, 27701](https://www.google.com/maps/preview#!q=201+W.+Main+St.%2C+Durham%2C+NC&data=!4m11!1m10!4m8!1m3!1d206990!2d-78.6450559!3d35.843768!3m2!1i1024!2i768!4f13.1!17b1)
+- Durham (Alternate): Two Toasters office at [320 E. Chapel Hill St. Suite 200 Durham, NC 27701](https://www.google.com/maps?q=320+E+Chapel+Hill+St,+Durham,+NC+27701&sll=35.843768,-78.6450559&sspn=0.42756695602060957,0.7033939441419972&t=m&dg=opt&hnear=320+E+Chapel+Hill+St,+Durham,+North+Carolina+27701&z=16)
 - Raleigh: TekSystem office at [1201 Edwards Mill Rd, Raleigh, NC 27607](https://www.google.com/maps?q=1201+Edwards+Mill+Rd,+Raleigh,+NC+27607&sll=35.843768,-78.6450559&sspn=0.42756695602060957,0.7033939441419972&t=m&dg=opt&hnear=1201+Edwards+Mill+Rd,+Raleigh,+North+Carolina+27607&z=16)
 
 ### Arrival
