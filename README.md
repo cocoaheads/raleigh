@@ -10,41 +10,41 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **September 19, 2013** in Durham, NC.
+Our next meeting is **October 24, 2013** in Raleigh, NC.
 
-**Speakers for CocoaHeads September**
-
-- What an iOS Developer needs to know about insurance by Brooks Barbee 
-- Writing iOS 7 Applications with AFNetworking 2.0 by Mattt Thompson
+**Speakers for CocoaHeads TBA**
 
 ## Previous Meetings
 
 - __2013__
-	- __CocoaHeads August__ _in Raleigh_
-		- Using Cocotron by Raf Cabezas
-		- What an iOS Developer needs to know about the law by Jonathan Rhyne
-	- __CocoaHeads July__ _in Durham_
-		- Auto Layout by Steve Foster
-		- AppCode by Rob Napier
-		- Briefs 2 by Rob Rhyne
-	- __CocoaHeads June__ _in Raleigh_
-		- WWDC: Recap by Mike Hay
-		- HTTP Live Streaming: Distributing Video Over the Top by Kevin Kirkup
-		- Mocking U with Kiwi by Daniel Hammond
-	- __CocoaHeads May__ _in Durham_
-		- Design then Code: Live! by Mike Rundle [[Watch Video](http://cocoaheads.tv/design-the-code-live-by-mike-rundle/)]
-		- Interaction Prototyping with Quartz Composer by Jay Thrash [[Watch Video](http://cocoaheads.tv/interaction-prototyping-with-quartz-composer-by-jay-thrash/)]
-	- __CocoaHeads April__ _in Raleigh_
+	- [__CocoaHeads September _in Durham_](http://www.meetup.com/nscoderrtp/events/138542752/)
+		- What an iOS Developer needs to know about insurance by Brooks Barbee
+		- AFNetworking 2.0 by [Mattt Thompson](http://twitter.com/mattt) [[Watch Video](http://cocoaheads.tv/afnetworking-2-0-by-mattt-thompson/)]
+	- [__CocoaHeads August__ _in Raleigh_](http://www.meetup.com/nscoderrtp/events/131194582/)
+		- Using Cocotron by [Raf Cabezas](http://twitter.com/rafcabezas)
+		- What an iOS Developer needs to know about the law by [Jonathan Rhyne](http://twitter.com/jdrhyne)
+	- [__CocoaHeads July__ _in Durham_](http://www.meetup.com/nscoderrtp/events/128486382/)
+		- Auto Layout by [Steve Foster](http://twitter.com/flightblog)
+		- AppCode by [Rob Napier](http://twitter.com/cocoaphony) [[Watch Video](http://cocoaheads.tv/appcode-lightning-talk-by-rob-napier/)]
+		- Briefs 2 by [Rob Rhyne](http://twitter.com/capttaco) [[Watch Video](http://cocoaheads.tv/briefs-2-by-rob-rhyne/)]
+	- [__CocoaHeads June__ _in Raleigh_](http://www.meetup.com/nscoderrtp/events/125644162/)
+		- WWDC: Recap by [Mike Hay](http://twitter.com/Hay)
+		- HTTP Live Streaming: Distributing Video Over the Top by [Kevin Kirkup](http://twitter.com/pan_and_scan)
+		- Mocking U with Kiwi by [Daniel Hammond](http://twitter.com/danielrhammond)
+	- [__CocoaHeads May__ _in Durham_](http://www.meetup.com/nscoderrtp/events/120462662/)
+		- Design then Code: Live! by [Mike Rundle](http://twitter.com/flyosity) [[Watch Video](http://cocoaheads.tv/design-the-code-live-by-mike-rundle/)]
+		- Interaction Prototyping with Quartz Composer by [Jay Thrash](http://twitter.com/jaythrash) [[Watch Video](http://cocoaheads.tv/interaction-prototyping-with-quartz-composer-by-jay-thrash/)]
+	- [__CocoaHeads April__ _in Raleigh_](http://www.meetup.com/nscoderrtp/events/113866262/)
 		- Strategies, Tips, and Tricks for Sometimes Connected Apps by Ken Auer [[Watch Video](http://cocoaheads.tv/strategies-tips-and-tricks-for-sometimes-connected-apps-by-ken-auer/)]
 		- "Grand Central Dispatch" by Dan Leehr [[Watch Video](http://cocoaheads.tv/gcd-2-beyond-the-queue-by-dan-leehr/)]
-	- __CocoaHeads March__ _in Durham_
+	- [__CocoaHeads March__ _in Durham_](http://www.meetup.com/nscoderrtp/events/108059202/)
 		- Building a Playlist with AV Foundation by Josh Johnson [[Watch Video](http://cocoaheads.tv/building-a-playlist-with-av-foundation-by-josh-johnson/)]
 		- PonyDebugger by Jay Thrash [[Watch Video](http://cocoaheads.tv/ponydebugger-by-jay-thrash/)]
-	- __CocoaHeads February__ _in Raleigh_
+	- [__CocoaHeads February__ _in Raleigh_](http://www.meetup.com/nscoderrtp/events/104261162/)
 		- Tips and Tricks for working with UIWebView by Pat Brewer [[Watch the video](http://cocoaheads.tv/uiwebview-tips-and-tricks-by-pat-brewer/)]
 		- RestKit by Blake Watters [[Watch the video](http://cocoaheads.tv/restkit-by-blake-watters/)]
 		- Programmer Ergonomics by Roy Legaard [[Watch the video](http://cocoaheads.tv/dvorak-keyboard-ergonomics-by-roy-legaard/)]
-	- __CocoaHeads January__ _in Durham_
+	- [__CocoaHeads January__ _in Durham_](http://www.meetup.com/nscoderrtp/events/98462292/)
 		- Radars [by Josh Johnson](http://twitter.com/jnjosh)
 		- Open Source Objective-C Projects [by Scott Penrose](http://twitter.com/scottpenrose) [[Watch Video](http://cocoaheads.tv/sharing-is-caring-by-scott-penrose/)]
 		- Cocoa Framework for CouchDB [by John Turner](http://twitter.com/thejohnturner) [[Watch Video](http://cocoaheads.tv/couchdb-cocoa-framework-by-john-turner/)]
