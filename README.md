@@ -17,12 +17,12 @@ CocoaHeads December will feature lightning talks by many members. Have an idea f
 ## Previous Meetings
 
 - __2013__
-  - [__CocoaHeads November in Durham](http://www.meetup.com/nscoderrtp/events/138551902/)
-    - UX Design: A method to the madness by Emmanuel Thompson [[Watch Video]](http://cocoaheads.tv/ux-design-a-method-to-the-madness-by-emmanuel-thompson/)
-    - Mobile Quality Assurance by Joe Sewell [[Watch Video]](http://cocoaheads.tv/mobile-quality-assurance-by-joe-sewell/)
-  - [__CocoaHeads October__ in Raleigh](http://www.meetup.com/nscoderrtp/events/138551802/)
-    - An Interesting Approach to Reverse Engineering Apps by [Chris Stroud](http://twitter.com/clstr0ud) [[Watch Video]](http://cocoaheads.tv/an-interesting-approach-to-reverse-engineering-apps-by-chris-stroud/)
-    - Core Data Ordered To-Many Relationships by Keefe Hayes [[Watch Video]](http://cocoaheads.tv/core-data-ordered-to-many-relationships-by-keefe-hayes/)
+	- [__CocoaHeads November in Durham__](http://www.meetup.com/nscoderrtp/events/138551902/)
+		- UX Design: A method to the madness by Emmanuel Thompson [[Watch Video]](http://cocoaheads.tv/ux-design-a-method-to-the-madness-by-emmanuel-thompson/)
+		- Mobile Quality Assurance by Joe Sewell [[Watch Video]](http://cocoaheads.tv/mobile-quality-assurance-by-joe-sewell/)
+	- [__CocoaHeads October__ in Raleigh](http://www.meetup.com/nscoderrtp/events/138551802/)
+		- An Interesting Approach to Reverse Engineering Apps by [Chris Stroud](http://twitter.com/clstr0ud) [[Watch Video]](http://cocoaheads.tv/an-interesting-approach-to-reverse-engineering-apps-by-chris-stroud/)
+		- Core Data Ordered To-Many Relationships by Keefe Hayes [[Watch Video]](http://cocoaheads.tv/core-data-ordered-to-many-relationships-by-keefe-hayes/)
 	- [__CocoaHeads September__ _in Durham_](http://www.meetup.com/nscoderrtp/events/138542752/)
 		- What an iOS Developer needs to know about insurance by Brooks Barbee
 		- AFNetworking 2.0 by [Mattt Thompson](http://twitter.com/mattt) [[Watch Video](http://cocoaheads.tv/afnetworking-2-0-by-mattt-thompson/)]
