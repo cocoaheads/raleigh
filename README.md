@@ -10,13 +10,20 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **December 19, 2013** in Raleigh, NC.
+Our next meeting is **February 27, 2014** in Raleigh, NC.
 
-CocoaHeads December will feature lightning talks by many members. Have an idea for a small talk?
+  - Agenda TBA
 
 ## Previous Meetings
 
 - __2013__
+  - [__CocoaHeads December in Raleigh__](http://www.meetup.com/nscoderrtp/events/138551992/)
+    - Handling Settings by [Mike Hay](http://twitter.com/hay) [[Watch Video]](http://cocoaheads.tv/handling-settings-by-mike-hay/)
+    - The Amazing Audio Engine by [Joe Zobkiw](http://twitter.com/zobskewed) [[Watch Video]](http://cocoaheads.tv/the-amazing-audio-engine-by-joe-zobkiw/)
+    - Reachability by [Trevor Brown](http://twitter.com/melikesmacs) [[Watch Video]](http://cocoaheads.tv/reachability-by-trevor-brown/)
+    - Associated Objects by [Chris Stroud](http://twitter.com/clstr0ud) [[Watch Video]](http://cocoaheads.tv/associated-objects-by-chris-stroud/)
+    - Table Cell Layout by Doug Ivers [[Watch Video]](http://cocoaheads.tv/table-cell-layout-by-doug-ivers/)
+    - A Brief Introduction to Scene Kit by [Meng Cao](http://twitter.com/mengcao) [[Watch Video]](http://cocoaheads.tv/a-brief-introduction-to-scene-kit-by-meng-cao/)
 	- [__CocoaHeads November in Durham__](http://www.meetup.com/nscoderrtp/events/138551902/)
 		- UX Design: A method to the madness by Emmanuel Thompson [[Watch Video]](http://cocoaheads.tv/ux-design-a-method-to-the-madness-by-emmanuel-thompson/)
 		- Mobile Quality Assurance by Joe Sewell [[Watch Video]](http://cocoaheads.tv/mobile-quality-assurance-by-joe-sewell/)
