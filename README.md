@@ -10,13 +10,38 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **February 27, 2014** in Raleigh, NC.
+Our next meeting is **August 27, 2015** in Durham, NC.
 
   - Agenda TBA
 
 ## Previous Meetings
 
+- __2015__
+	- [__CocoaHeads July in Durham__](http://www.meetup.com/nscoderrtp/events/219019222/)
+ 		- "Dare to be Square" by [Jay Thrash](http://twitter.com/jaythrash)
+ 		- "Designing and Developing in a Multi-tasking World" by Erik LaManna
 - __2014__
+	- [__CocoaHeads December in Durham__](http://www.meetup.com/nscoderrtp/events/219019222/)
+ 		- “Think Functionally in Swift” by [Rob Napier](http://twitter.com/cocoaphony)
+ 		- “When not to use Swift” by [Mike Hay](http://twitter.com/hay)
+	- [__CocoaHeads November in Raleigh__](http://www.meetup.com/nscoderrtp/events/215958112/)
+ 		- "Jay's Xcode Technique™" by [Jay Thrash](http://twitter.com/jaythrash)
+ 		- "HealthKit" by [Josh Johnson](http://twitter.com/jnjosh)
+	- [__CocoaHeads October in Durham__](http://www.meetup.com/nscoderrtp/events/213855662/)
+ 		- "What's on Tap for Today?" Building Today screen extensions
+ 		- To Test or Not To Test? Open discussion on effective testing strategies for iOS and OS X.
+	- [__CocoaHeads May in Durham__](http://www.meetup.com/nscoderrtp/events/183418002/)
+ 		- How I Learned to Quit Worrying and Love Storyboards by [Josh Johnson](http://twitter.com/jnjosh)
+ 		- Escape the App Store Sandbox by Matt Welch
+	- [__CocoaHeads April in Raleigh__](http://www.meetup.com/nscoderrtp/events/178271072/)
+ 		- git Workflows: How to get the most out of version control by Lismond Bernard
+ 		- Autolayout in Real Life: A Filter Summary View by Jimmy Thrasher
+	- [__CocoaHeads March in Durham__](http://www.meetup.com/nscoderrtp/events/171756732/)
+ 		- Xcode Alchemy by [Jay Thrash](http://twitter.com/jaythrash)
+ 		- Building a new type of iOS menu (with circles) by [Chris Stroud](http://twitter.com/clstr0ud)
+	- [__CocoaHeads February in Raleigh__](http://www.meetup.com/nscoderrtp/events/165933872/)
+ 		- Adversarial Testing by [Prachi Gauriar](http://twitter.com/prachigauriar)
+ 		- The Power of Good Abstractions with an Example from UITableView by Jimmy Thrasher
 	- [__CocoaHeads January in Durham__](http://www.meetup.com/nscoderrtp/events/138551992/)
  		- Facebook Origami Framework by [Jay Thrash](http://twitter.com/jaythrash) [[Watch Video]](http://cocoaheads.tv/prototyping-with-facebook-origami-by-jay-thrash/)
 - __2013__
