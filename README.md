@@ -10,16 +10,19 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **August 27, 2015** in Durham, NC.
+Our next meeting is **October 22, 2015** in Durham, NC.
 
   - Agenda TBA
 
 ## Previous Meetings
 
 - __2015__
+    - [__CocoaHeads September in Durham__](http://www.meetup.com/nscoderrtp/events/225443393/)
+        - “A Modern Core Data Stack” by Jody Hagins
+        - “The Fetch is Right: A Core Data Game Show” by Josh Johnson
 	- [__CocoaHeads July in Durham__](http://www.meetup.com/nscoderrtp/events/219019222/)
- 		- "Dare to be Square" by [Jay Thrash](http://twitter.com/jaythrash)
- 		- "Designing and Developing in a Multi-tasking World" by Erik LaManna
+ 		- “Dare to be Square” by [Jay Thrash](http://twitter.com/jaythrash)
+ 		- “Designing and Developing in a Multi-tasking World” by Erik LaManna
 - __2014__
 	- [__CocoaHeads December in Durham__](http://www.meetup.com/nscoderrtp/events/219019222/)
  		- “Think Functionally in Swift” by [Rob Napier](http://twitter.com/cocoaphony)
