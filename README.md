@@ -10,9 +10,7 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **October 22, 2015** in Durham, NC.
-
-  - Agenda TBA
+Our next meeting is **January 28, 2016** in Durham, NC.
 
 ## Previous Meetings
 
