@@ -13,7 +13,10 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 Our next meeting is **TBD**.
 
 ## Previous Meetings
-
+- __2017__
+    - [__CocoaHeads January in Durham__](https://www.meetup.com/nscoderrtp/events/236846738/)
+        - “How to be an iOS Time Lord” by [Ameir Al-Zoubi](https://twitter.com/ameir)
+        - “Learning From Our Elders: Applying functional insights without losing Swift” by [Rob Napier](https://twitter.com/cocoaphony)
 - __2016__
     - [__CocoaHeads May in Raleigh__](https://www.meetup.com/nscoderrtp/events/230855293/)
         - “Realm” by Andrew Carter
