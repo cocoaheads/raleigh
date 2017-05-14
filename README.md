@@ -10,10 +10,19 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is **TBD**.
+Our next meeting is [May 25th in RTP](https://www.meetup.com/nscoderrtp/events/239925683/).
 
 ## Previous Meetings
 - __2017__
+    - [__CocoaHeads April in Durham__](https://www.meetup.com/nscoderrtp/events/238936176/)
+        - “Thinking Different with Swift Enums” by Carmen Cerino
+        - “Internationalization or What the Student Driver, Christmas Pine, and Glutinous Rice Ball emoji taught me about Internationalization” by Nat Hillard
+    - [__CocoaHeads March in Raleigh__](https://www.meetup.com/nscoderrtp/events/238243831/)
+        - “Comment Driven Development” by [Sean Doherty](https://twitter.com/seanbdoherty)
+        - “Perfect Server” by [Marty Cullen](https://twitter.com/martycullen)
+    - [__CocoaHeads February in RTP__](https://www.meetup.com/nscoderrtp/events/237772826/)
+        - “Rapid Application Development” by [Mike Hay](https://twitter.com/hay)
+        - "An Eye for Accessibility” by [Jay Thrash](https://twitter.com/jaythrash)
     - [__CocoaHeads January in Durham__](https://www.meetup.com/nscoderrtp/events/236846738/)
         - “How to be an iOS Time Lord” by [Ameir Al-Zoubi](https://twitter.com/ameir)
         - “Learning From Our Elders: Applying functional insights without losing Swift” by [Rob Napier](https://twitter.com/cocoaphony)
