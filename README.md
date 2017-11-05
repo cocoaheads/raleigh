@@ -24,7 +24,7 @@ Our next meeting is [November 30th in Durham](https://www.meetup.com/nscoderrtp/
         - “Instruments: Getting Started” by Trevor Brown
         - “6 or 8 Things I Learned about Codable” by Steve Foster
     - [__CocoaHeads June in Raleigh__](https://www.meetup.com/nscoderrtp/events/240757598/)
-        - “Hackintosh” by Trevor Brown
+        - “Hackintosh” by Joshua Nozzi
         - “WWDC Panel” with Rob Napier, Carmen Cerino, and Jay Thrash
     - [__CocoaHeads May in RTP__](https://www.meetup.com/nscoderrtp/events/239925683)
         - “Using NSGridView” by Roy Legaard
