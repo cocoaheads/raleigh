@@ -10,10 +10,25 @@ Follow updates on twitter with [@trianglecocoa](http://twitter.com/trianglecocoa
 
 ## Next Meeting
 
-Our next meeting is [May 25th in RTP](https://www.meetup.com/nscoderrtp/events/239925683/).
+Our next meeting is [November 30th in Durham](https://www.meetup.com/nscoderrtp/events/244840723/).
 
 ## Previous Meetings
 - __2017__
+    - [__CocoaHeads October in Raleigh__](https://www.meetup.com/nscoderrtp/events/244495537)
+        - “Vector Image Assets in Xcode” by Chris Becom
+        - “Cross-Platform Shenanigans, Part 1: iOS” by Josh Johnson
+    - [__CocoaHeads September in RTP__](https://www.meetup.com/nscoderrtp/events/243304262)
+        - “Using the modern WebKit API: embedding web content with WKWebView” by Matt Kennedy
+        - “Mobile App Architecture at Transloc” by Andrew Hershberger
+    - [__CocoaHeads July in Durham__](https://www.meetup.com/nscoderrtp/events/241210326)
+        - “Instruments: Getting Started” by Trevor Brown
+        - “6 or 8 Things I Learned about Codable” by Steve Foster
+    - [__CocoaHeads June in Raleigh__](https://www.meetup.com/nscoderrtp/events/240757598/)
+        - “Hackintosh” by Trevor Brown
+        - “WWDC Panel” with Rob Napier, Carmen Cerino, and Jay Thrash
+    - [__CocoaHeads May in RTP__](https://www.meetup.com/nscoderrtp/events/239925683)
+        - “Using NSGridView” by Roy Legaard
+        - “Serverless Swift with API Gateway using OpenWhisk” by Carlos Santana
     - [__CocoaHeads April in Durham__](https://www.meetup.com/nscoderrtp/events/238936176/)
         - “Thinking Different with Swift Enums” by Carmen Cerino
         - “Internationalization or What the Student Driver, Christmas Pine, and Glutinous Rice Ball emoji taught me about Internationalization” by Nat Hillard

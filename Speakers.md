@@ -4,11 +4,7 @@ We really appreciate you volunteering to speak at our CocoaHeads. Below are some
 
 ### Location
 
-To keep our CocoaHeads available to as many people as possible, we switch between Durham and Raleigh each month. Make sure you take note of the location for the month you are speaking. Our typical locations are:
-
-- Durham: American Underground @ Main at [201 W. Main St. Durham, NC, 27701](https://www.google.com/maps/preview#!q=201+W.+Main+St.%2C+Durham%2C+NC&data=!4m11!1m10!4m8!1m3!1d206990!2d-78.6450559!3d35.843768!3m2!1i1024!2i768!4f13.1!17b1)
-- Durham (Alternate): Two Toasters office at [320 E. Chapel Hill St. Suite 200 Durham, NC 27701](https://www.google.com/maps?q=320+E+Chapel+Hill+St,+Durham,+NC+27701&sll=35.843768,-78.6450559&sspn=0.42756695602060957,0.7033939441419972&t=m&dg=opt&hnear=320+E+Chapel+Hill+St,+Durham,+North+Carolina+27701&z=16)
-- Raleigh: TekSystem office at [1201 Edwards Mill Rd, Raleigh, NC 27607](https://www.google.com/maps?q=1201+Edwards+Mill+Rd,+Raleigh,+NC+27607&sll=35.843768,-78.6450559&sspn=0.42756695602060957,0.7033939441419972&t=m&dg=opt&hnear=1201+Edwards+Mill+Rd,+Raleigh,+North+Carolina+27607&z=16)
+To keep our CocoaHeads available to as many people as possible, we switch between Durham, RTP, and Raleigh each month. Make sure you take note of the location for the month you are speaking as it can change.
 
 ### Arrival
 
@@ -16,7 +12,7 @@ The host should be there around 6:30pm to help setup make sure every thing is in
 
 ### Duration
 
-Since we are changing the format a little to the 3 shorter talks, our timing is more important than in the past. Each session should last, at most, 30 minutes including any Q&A. As usual, we'll be doing the NSDrinking "after-party", so if people have more detailed questions we can direct them to asking online or over a beer.
+Since we are changing the format a little to the 2 shorter talks, our timing is more important than in the past. Each session should last, at most, 30 minutes. It's okay to stretch a little for any Q&A, but still should be no longer than 45 minutes. As usual, we'll be doing the NSDrinking "after-party", so if people have more detailed questions we can direct them to asking online or over a beer.
 
 ### Slides
 
@@ -41,8 +37,8 @@ We like to record audio and video of the presentation to release on the [cocoahe
 ### Contacts
 
 - Organizers and Hosts
-  - [Josh Johnson](http://twitter.com/jnjosh) - _March, June, September, December_
-  - [Jay Thrash](http://twitter.com/jaythrash) - _February, May, August, November_
-  - [Marty Cullen](http://twitter.com/martycullen) - _January, April, July, October_
+  - [Josh Johnson](http://twitter.com/jnjosh)
+  - [Jay Thrash](http://twitter.com/jaythrash)
+  - [Marty Cullen](http://twitter.com/martycullen)
 
 Thank You!
